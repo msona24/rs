@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/rs-common" mode="merge"/>
+    <filter root="/content/rs-common" mode="merge"/>
+    <filter root="/content/dam/rs-common/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/rs-common" mode="merge"/>
+</workspaceFilter>

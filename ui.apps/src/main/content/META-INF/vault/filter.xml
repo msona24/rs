@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/rs-common/clientlibs"/>
+    <filter root="/apps/rs-common/components"/>
+    <filter root="/apps/rs-common/i18n"/>
+</workspaceFilter>
